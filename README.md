@@ -90,6 +90,3 @@ Joy
 * Deploy the model online
 * Improve the model with larger datasets and newer transformer models
 
-## Author
-
-**Prashant Bisht**
